@@ -5,6 +5,7 @@ function Miles () {
 
     return (
         <div>
+            <h1>Welcome to the Mile tracker!</h1>
             <h2>How many Miles: {number}</h2>
             <button onClick={() => setNumber(number + 1)}>Miles Ran</button>
             <button onClick={() => setNumber(0)}>Reset Counter</button>

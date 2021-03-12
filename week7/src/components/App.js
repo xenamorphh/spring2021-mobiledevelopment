@@ -1,12 +1,12 @@
 
-import Rain from '.components/Reps'
-import Sun from '.components/Miles'
+import Reps from '.components/Reps'
+import Miles from '.components/Miles'
 
 function App() {
     return(
         <div>
         <h1>Rep Tracker</h1>
-        <Rain/>
+        <Reps/>
         <Miles/>
         </div>
     );
