@@ -1,6 +1,6 @@
 import React, {userState} from 'react';
 
-funtion Burn () {
+function Burn () {
     const [number, setNumber] = userState(0);
 
     return (
