@@ -8,6 +8,8 @@ function App() {
         <h1>Rep Tracker</h1>
         <Reps/>
         <Miles/>
+        <Cals/>
+        <Burn/>
         </div>
     );
 }
