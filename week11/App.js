@@ -7,7 +7,7 @@ export default function App() {
   return (
     <View style={styles.container}>
      <Card>
-       <Card.Title> Kayla Meguin</Card.Title>
+       <Card.Title>Kayla Meguin</Card.Title>
        <Text>Sushi</Text>
        <Card.Divider/>
        <Text>Pizza</Text>
